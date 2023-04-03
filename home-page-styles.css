@@ -1,0 +1,19 @@
+body {
+  color: white;
+  background-color: rgb(147, 81, 81);
+}
+
+p {
+  color: rgb(97, 150, 44);
+}
+
+.nw {
+  font-size: larger;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.interesting {
+  font-weight: 800;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}

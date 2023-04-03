@@ -1,0 +1,22 @@
+body {
+    background-color: burlywood;
+}
+
+.imgsize {
+    height: auto;
+    width: 300px;
+}
+
+
+p {
+    color: brown;
+    font-size: 20px;
+}
+
+#makedf {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#mb {
+    color: blue;
+}
